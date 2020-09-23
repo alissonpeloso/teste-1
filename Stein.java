@@ -1,3 +1,3 @@
 puclib class Stein {
-    // Selo anti-curioso
+    // Selo anti-curiosos
 }
